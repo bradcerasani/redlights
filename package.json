@@ -1,0 +1,11 @@
+{
+  "name": "redlight",
+  "version": "0.0.0",
+  "private": "true",
+  "devDependencies": {
+    "express": "^4.1.0",
+    "jquery": "^2.1.1",
+    "node-hue-api": "^0.2.2",
+    "request": "^2.34.0"
+  }
+}
